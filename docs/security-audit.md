@@ -1,6 +1,6 @@
 # Security audit
 
-**Review date:** 2026-10-24  
+**Review date:** 2026-10-24
 **Scope:** `.github/workflows/*`, `.goreleaser.yaml`, `Makefile`, `cmd/**`, `pkg/**`, `go.mod`, and `go.sum`.
 
 This is a static review of the checked-out source, not a guarantee that the
